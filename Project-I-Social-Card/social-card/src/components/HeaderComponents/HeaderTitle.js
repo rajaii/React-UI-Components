@@ -5,7 +5,7 @@ const HeaderTitle = (props) => {
     return (
     <div class='hTitle'>
         <h3>Lambda School</h3>
-        <p>  @LambdaSchool   {Date.now()}</p>
+        <p>  @LambdaSchool   {new Date()}</p>
     </div>
     )
 }
