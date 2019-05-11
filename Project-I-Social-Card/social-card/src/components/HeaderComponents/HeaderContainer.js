@@ -7,7 +7,7 @@ import HeaderContent from './HeaderContent';
 
 const HeaderContainer = (props) => {
     return (
-    <div class='hContainer'>
+    <div className='hContainer'>
        
        <HeaderTitle/>
        <HeaderContent/>

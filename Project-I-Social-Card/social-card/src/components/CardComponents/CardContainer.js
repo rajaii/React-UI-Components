@@ -5,8 +5,8 @@ import CardContent from './CardContent';
 
 const CardContainer = (props) => {
     return (
-        <div class='cardAnchorContainer'>
-            <a class='cardAnchor' href='https://www.reactjs.org'>
+        <div className='cardAnchorContainer'>
+            <a className='cardAnchor' href='https://www.reactjs.org'>
                 <CardBanner/>
                 <CardContent/>
             </a>
